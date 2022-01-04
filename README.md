@@ -48,6 +48,10 @@ Make your room chat private from another room. Connect with each other especiall
 
 ## References
 
+- [Clock Format](https://momentjs.com/)
+- [Share Location](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+- [Filter Word in Chat](https://www.npmjs.com/package/bad-words)
+
 [Back To The Top](#read-me-template)
 
 ---
