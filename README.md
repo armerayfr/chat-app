@@ -1,6 +1,6 @@
 # Read Me Template
 
-![Project Image](project-image-url)
+![Project Image](./public/img/project.png)
 
 > This is a ReadMe template to help save you time and effort.
 
