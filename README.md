@@ -20,12 +20,13 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious. I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Make your room chat private from another room. Connect with each other especially your strangers. This app helps you isolate your chat from your special one 👀, it will delete your history chat as soon as possible after you left the chat room. You can share current location, when you are in Coffee Shop, Kosan 👀 and soon.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Socket IO
+- Express
+- Node JS
 
 [Back To The Top](#read-me-template)
 
